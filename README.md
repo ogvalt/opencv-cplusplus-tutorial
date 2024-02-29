@@ -1,0 +1,1 @@
+1. What I've learnt. Unsetting GTK_PATH was correct https://github.com/ros2/ros2/issues/1406
